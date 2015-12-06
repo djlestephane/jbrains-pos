@@ -1,3 +1,6 @@
+# Ignore classes output directories
+
+/*/classes
 
 # Created by https://www.gitignore.io/api/intellij
 
